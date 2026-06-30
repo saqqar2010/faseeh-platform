@@ -1,2 +1,23 @@
-# faseeh-platform
-A free open-source platform for learning and practicing Modern Standard Arabic speaking.
+# فصيح | Faseeh
+
+منصة مجانية مفتوحة المصدر لتعلم وممارسة التحدث باللغة العربية الفصحى.
+
+## الرؤية
+
+أن تكون فصيح المرجع الأول عالميًا لتعلم التحدث بالعربية الفصحى.
+
+## الرسالة
+
+توفير منصة مجانية تساعد المتعلمين على تطوير مهارات التحدث والاستماع والقراءة باللغة العربية الفصحى من خلال التعلم بالممارسة.
+
+## التقنيات
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Vercel
+
+## الترخيص
+
+MIT License
